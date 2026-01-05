@@ -6,3 +6,5 @@ Instead of relying on fully scripted automation, the agent is designed to reason
 
 The goal of this project is not exhaustive testing, but to demonstrate decision-making, reasoning, and system design in an ambiguous web environment.
 
+## Agent Goal
+
