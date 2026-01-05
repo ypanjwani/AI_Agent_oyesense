@@ -8,3 +8,4 @@ The goal of this project is not exhaustive testing, but to demonstrate decision-
 
 ## Agent Goal
 
+Explore the website like a first-time user, identify meaningful interaction paths, observe page behavior, and surface potential usability or UX issues.
